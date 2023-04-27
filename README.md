@@ -1,6 +1,6 @@
 # IS833-Team-1-Project
 
-##Contributors
+Contributors
 
 Aaushi Agrawal
 Christopher Tash
